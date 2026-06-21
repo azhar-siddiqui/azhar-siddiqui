@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Sayyed+Azhar;Product+Engineer;Building+products+from+0+%E2%86%92+1;Maritime+%C2%B7+Logistics+%C2%B7+Healthcare" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Sayyed+Azhar;Product+Engineer;Maritime+%C2%B7+Logistics+%C2%B7+Healthcare" alt="Typing animation" />
 
 <br/>
 
 **Product Engineer** · Building enterprise-grade, production-ready software from scratch
 
-📍 Aurangabad, India · 🚀 Currently at **Kiya.ai**
+📍 Aurangabad, India
 
 <br/>
 
@@ -23,10 +23,10 @@
 
 Product Engineer with **4+ years** of experience shipping **15+ mission-critical products** across **logistics, maritime, healthcare, supply chain, EdTech, and hospitality**. I don't just write code — I build software that delivers real business impact: boosting revenue, lowering costs, ensuring compliance, and scaling operations for global enterprise clients.
 
-| | |
-|:---:|:---:|
-| **4+** Years in production | **15+** Products shipped |
-| **5** Industries served | **40%** Avg. page load improvement |
+|                            |                                    |
+| :------------------------: | :--------------------------------: |
+| **4+** Years in production |      **15+** Products shipped      |
+|  **5** Industries served   | **40%** Avg. page load improvement |
 
 **Core Competencies**
 
@@ -93,7 +93,8 @@ Product Engineer with **4+ years** of experience shipping **15+ mission-critical
 <td width="50%" valign="top">
 
 ### 🚢 Hafnia — Fleet Intelligence Platform
-*Maritime · Enterprise SaaS · 2024 — Present*
+
+_Maritime · Enterprise SaaS · 2024 — Present_
 
 Real-time fleet intelligence for global tanker pool participants — RBAC dashboards, DeckGL maps, action item centers, and performance reporting at scale.
 
@@ -103,7 +104,8 @@ Real-time fleet intelligence for global tanker pool participants — RBAC dashbo
 <td width="50%" valign="top">
 
 ### 📦 Quloi — Supply Chain Platform
-*Logistics · Cloud-native SaaS · 2023*
+
+_Logistics · Cloud-native SaaS · 2023_
 
 Omni-channel supply chain collaboration — PO automation, supplier management, and real-time KPI dashboards (OTIF, lead-time accuracy).
 
@@ -115,7 +117,8 @@ Omni-channel supply chain collaboration — PO automation, supplier management, 
 <td width="50%" valign="top">
 
 ### 🍽️ TableMate — Offline-First POS PWA
-*Hospitality · Multi-tenant · 2026 — Present*
+
+_Hospitality · Multi-tenant · 2026 — Present_
 
 Production-ready restaurant & hotel POS with real-time KDS, WebSocket sync, tenant isolation, and offline resilience via Dexie + Workbox.
 
@@ -125,7 +128,8 @@ Production-ready restaurant & hotel POS with real-time KDS, WebSocket sync, tena
 <td width="50%" valign="top">
 
 ### 🏥 WeCare — Healthcare Lab SaaS
-*Healthcare · 0→1 Platform · 2023 — Present*
+
+_Healthcare · 0→1 Platform · 2023 — Present_
 
 End-to-end lab operations platform — patient lifecycle, multi-tenant RBAC, AI-powered report interpretation, and dynamic PDF generation.
 
@@ -139,14 +143,14 @@ End-to-end lab operations platform — patient lifecycle, multi-tenant RBAC, AI-
 <summary><b>More projects →</b></summary>
 <br/>
 
-| Project | Impact |
-| --- | --- |
-| [**Epact**](https://epact.app/) — MIS & CRM for EdTech | 30k+ students · 9.6M+ transactions |
-| [**HobbyCue**](https://hobbycue.com/) — Community marketplace | Full-stack Next.js + Firebase platform |
-| [**SalonTreat**](https://salontreat.com/) — On-demand beauty booking | Web + Android app shipped to Play Store |
-| [**Casa Architect**](https://casa-architects.in/) — Portfolio engine | PWA with lead conversion optimization |
-| [**CashCounter Pro**](https://cash-counter-pro-eta.vercel.app/) — Retail PWA | Multi-currency cash counting tool |
-| [**SubTrackr**](https://github.com/azhar-siddiqui) — Subscription tracker | React Native + Expo + Clerk auth |
+| Project                                                                      | Impact                                  |
+| ---------------------------------------------------------------------------- | --------------------------------------- |
+| [**Epact**](https://epact.app/) — MIS & CRM for EdTech                       | 30k+ students · 9.6M+ transactions      |
+| [**HobbyCue**](https://hobbycue.com/) — Community marketplace                | Full-stack Next.js + Firebase platform  |
+| [**SalonTreat**](https://salontreat.com/) — On-demand beauty booking         | Web + Android app shipped to Play Store |
+| [**Casa Architect**](https://casa-architects.in/) — Portfolio engine         | PWA with lead conversion optimization   |
+| [**CashCounter Pro**](https://cash-counter-pro-eta.vercel.app/) — Retail PWA | Multi-currency cash counting tool       |
+| [**SubTrackr**](https://github.com/azhar-siddiqui) — Subscription tracker    | React Native + Expo + Clerk auth        |
 
 </details>
 
@@ -171,7 +175,7 @@ I bridge the gap between **business objectives** and **technical execution**. My
 
 Whether it's architecting maritime dashboards for fleet operators, automating supply chain workflows to cut detention costs, or building offline-first POS systems for restaurants — I focus on **measurable business value** through quality engineering.
 
-> *"I don't just write code. I build software that works in production."*
+> _"I don't just write code. I build software that works in production."_
 
 ---
 
