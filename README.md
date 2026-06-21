@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Over the past four years, I've owned the entire development process for products across logistics, maritime, and healthcare — designing interfaces, writing backend logic, managing databases, and automating infrastructure. I lean heavily into modern AI-assisted development tools like Cursor and Claude Code to speed up my workflow, catch bugs early, and ship high-quality features fast.
 
 
