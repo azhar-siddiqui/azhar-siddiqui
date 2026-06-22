@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Sayyed+Azhar;Product+Engineer;Maritime+%C2%B7+Logistics+%C2%B7+Healthcare" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Sayyed+Azhar;Product+Engineer+%E2%80%94+Full+Stack;Maritime+%C2%B7+Logistics+%C2%B7+Healthcare" alt="Typing animation" />
 
 <br/>
 
 **Product Engineer** · Building enterprise-grade, production-ready software from scratch
 
-📍 Aurangabad, India
+📍 Aurangabad, India &nbsp;·&nbsp; 🟢 Open to Work
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-azharsayyed.in-0ea5e9?style=for-the-badge&logo=safari&logoColor=white)](https://www.azharsayyed.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayyed%20Azhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyed-azhar-673147179/)
 [![Email](https://img.shields.io/badge/Email-azhartsiddiqui%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhartsiddiqui@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-azhar--siddiqui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azhar-siddiqui)
+[![GitHub](https://img.shields.io/badge/GitHub-azharsayyed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azharsayyed)
 
 </div>
 
@@ -30,7 +30,7 @@ Product Engineer with **4+ years** of experience shipping **15+ mission-critical
 
 **Core Competencies**
 
-- Full-stack product engineering — 0→1 ownership from UI to infrastructure
+- Full-stack product engineering — with end to end ownership from UI to infrastructure
 - Architecting **offline-first, real-time** SaaS platforms with multi-tenant RBAC
 - Translating ambiguous stakeholder requirements into scalable, maintainable systems
 - Leading delivery for **maritime fleet intelligence**, **supply chain collaboration**, and **healthcare lab operations**
@@ -88,26 +88,36 @@ Product Engineer with **4+ years** of experience shipping **15+ mission-critical
 
 ## Featured Work
 
+### 🏢 Client & Enterprise Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 Hafnia — Fleet Intelligence Platform
+### 🚢 [Hafnia — Fleet Intelligence Platform](https://hafnia.com)
 
-_Maritime · Enterprise SaaS · 2024 — Present_
+_Maritime · Enterprise SaaS · Kiya.ai · 2024–Present_
 
 Real-time fleet intelligence for global tanker pool participants — RBAC dashboards, DeckGL maps, action item centers, and performance reporting at scale.
+
+- Architected multi-tier RBAC with secure stakeholder data isolation
+- Built interactive DeckGL global maps with pool point correction workflows
+- Integrated SonarQube + New Relic across Azure CI/CD pipelines
 
 `React` `TypeScript` `AG Grid` `DeckGL` `Azure Pipelines` `New Relic`
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Quloi — Supply Chain Platform
+### 📦 [Quloi — Supply Chain Platform](https://quloi.com)
 
-_Logistics · Cloud-native SaaS · 2023_
+_Logistics · Cloud-native SaaS · Quloi · 2023_
 
 Omni-channel supply chain collaboration — PO automation, supplier management, and real-time KPI dashboards (OTIF, lead-time accuracy).
+
+- Engineered Supplier Management & Purchase Order automation modules
+- Delivered real-time KPI dashboards eliminating manual spreadsheet tracking
+- Reduced detention/demurrage costs through shipment milestone visibility
 
 `React` `TypeScript` `Tailwind CSS` `REST API` `RBAC`
 
@@ -116,9 +126,44 @@ Omni-channel supply chain collaboration — PO automation, supplier management, 
 <tr>
 <td width="50%" valign="top">
 
+### 🎓 [Epact — MIS & CRM for EdTech](https://epact.app)
+
+_Education · Enterprise SaaS · ATG World · 2022_
+
+All-in-one platform for adult learning colleges, apprenticeship programs, and recovery colleges in the UK.
+
+- Serves **30,000+ students** and processes **9.6M+ transactions**
+- Built enrolment, attendance, funding compliance, and reporting workflows
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [HobbyCue — Community Marketplace](https://hobbycue.com)
+
+_Community · Marketplace · ATG World · 2022_
+
+Connects hobby enthusiasts with experts, teachers, venues, and events.
+
+- Delivered People, Places, Products & Programs core modules
+- Built full search, booking, and listing across hobby categories
+
+`Next.js` `TypeScript` `Node.js` `MongoDB` `Firebase`
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Personal Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🍽️ TableMate — Offline-First POS PWA
 
-_Hospitality · Multi-tenant · 2026 — Present_
+_Hospitality · Personal Project · 2026_
 
 Production-ready restaurant & hotel POS with real-time KDS, WebSocket sync, tenant isolation, and offline resilience via Dexie + Workbox.
 
@@ -129,7 +174,7 @@ Production-ready restaurant & hotel POS with real-time KDS, WebSocket sync, tena
 
 ### 🏥 WeCare — Healthcare Lab SaaS
 
-_Healthcare · 0→1 Platform · 2023 — Present_
+_Healthcare · Personal Project · 2023–Present_
 
 End-to-end lab operations platform — patient lifecycle, multi-tenant RBAC, AI-powered report interpretation, and dynamic PDF generation.
 
@@ -143,14 +188,12 @@ End-to-end lab operations platform — patient lifecycle, multi-tenant RBAC, AI-
 <summary><b>More projects →</b></summary>
 <br/>
 
-| Project                                                                      | Impact                                  |
-| ---------------------------------------------------------------------------- | --------------------------------------- |
-| [**Epact**](https://epact.app/) — MIS & CRM for EdTech                       | 30k+ students · 9.6M+ transactions      |
-| [**HobbyCue**](https://hobbycue.com/) — Community marketplace                | Full-stack Next.js + Firebase platform  |
-| [**SalonTreat**](https://salontreat.com/) — On-demand beauty booking         | Web + Android app shipped to Play Store |
-| [**Casa Architect**](https://casa-architects.in/) — Portfolio engine         | PWA with lead conversion optimization   |
-| [**CashCounter Pro**](https://cash-counter-pro-eta.vercel.app/) — Retail PWA | Multi-currency cash counting tool       |
-| [**SubTrackr**](https://github.com/azhar-siddiqui) — Subscription tracker    | React Native + Expo + Clerk auth        |
+| Project                                                                      | Type     | Impact                                  |
+| ---------------------------------------------------------------------------- | -------- | --------------------------------------- |
+| [**SalonTreat**](https://salontreat.com/) — On-demand beauty booking         | Client   | Web + Android app shipped to Play Store |
+| [**Casa Architect**](https://casa-architects.in/) — Portfolio engine         | Client   | PWA with lead conversion optimization   |
+| [**CashCounter Pro**](https://cash-counter-pro-eta.vercel.app/) — Retail PWA | Personal | Multi-currency cash counting tool       |
+| [**SubTrackr**](https://github.com/azharsayyed) — Subscription tracker       | Personal | React Native + Expo + Clerk auth        |
 
 </details>
 
@@ -158,24 +201,40 @@ End-to-end lab operations platform — patient lifecycle, multi-tenant RBAC, AI-
 
 ## Experience
 
-```
-Kiya.ai          Associate Consultant     Mar 2024 — Present
-Quloi            Full Stack Developer     Jan 2023 — Sep 2023
-Banao Tech       Sr. Frontend Developer   Jan 2022 — Dec 2022
-RightBrain       Associate Software Eng.  Jan 2021 — Dec 2021
-```
+### 🏢 Kiya.ai — Associate Consultant
 
-**Education:** M.Sc. & B.Sc. Computer Science — Savitribai Phule Pune University
+**Mar 2024 – Present · Remote**
 
----
+- Architected enterprise maritime SaaS with granular RBAC and multi-tier stakeholder permissions
+- Delivered real-time fleet dashboards using DeckGL maps and AG Grid for global tanker operators
+- Maintained CI/CD pipelines across dev/test/prod with Azure DevOps, SonarQube, and New Relic
+- Led frontend delivery for Hafnia — one of the world's largest independent tanker pool operators
 
-## Professional Approach
+### 🏢 Quloi — Full Stack Developer
 
-I bridge the gap between **business objectives** and **technical execution**. My strength lies in understanding stakeholder needs, translating them into scalable solutions, and shipping reliable products at high velocity.
+**Jan 2023 – Sep 2023 · Remote**
 
-Whether it's architecting maritime dashboards for fleet operators, automating supply chain workflows to cut detention costs, or building offline-first POS systems for restaurants — I focus on **measurable business value** through quality engineering.
+- Built frontend architecture for an omni-channel supply chain collaboration platform
+- Engineered Supplier Management and Purchase Order automation modules end-to-end
+- Implemented granular RBAC for admins, buyers, suppliers, and freight forwarders
 
-> _"I don't just write code. I build software that works in production."_
+### 🏢 Banao Tech (ATG World) — Sr. Frontend Developer
+
+**Jan 2022 – Dec 2022 · Remote**
+
+- Delivered 10+ production web applications across EdTech, hospitality, healthcare, and community domains
+- Reduced average page load time by **30%** across 10 client sites; became team lead on Web Vitals optimization
+- Collaborated with UX designers on conversion-focused, responsive interfaces
+
+### 🏢 RightBrain InfoTech — Associate Software Engineer
+
+**Jan 2021 – Dec 2021 · Remote**
+
+- Translated complex wireframes into pixel-perfect, functional web pages
+- Improved application performance, reducing page load times by **20%**
+- Led peer code reviews and contributed to frontend architecture decisions
+
+**Education:** M.Sc. Computer Science _(2021–2023)_ · B.Sc. Computer Science _(2018–2021)_ — Savitribai Phule Pune University
 
 ---
 
@@ -193,6 +252,10 @@ I'm open to collaborating on interesting products, enterprise SaaS challenges, a
 
 <br/>
 
+> _"I don't just write code. I build software that works in production."_
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=azhar-siddiqui&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile views" />
 
 </div>
@@ -200,7 +263,5 @@ I'm open to collaborating on interesting products, enterprise SaaS challenges, a
 ---
 
 <div align="center">
-
 <sub>Built with curiosity, shipped with care · Aurangabad, India</sub>
-
 </div>
