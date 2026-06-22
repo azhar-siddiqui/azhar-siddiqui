@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Sayyed+Azhar;Product+Engineer+%E2%80%94+Full+Stack;Maritime+%C2%B7+Logistics+%C2%B7+Healthcare" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Sayyed+Azhar;Product+Engineer;Maritime+%C2%B7+Logistics+%C2%B7+Healthcare" alt="Typing animation" />
 
 <br/>
 
